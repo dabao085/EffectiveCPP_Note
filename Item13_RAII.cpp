@@ -1,5 +1,5 @@
 /*
-测试RAII 基于heap资源: Item 13
+*测试RAII 基于heap资源, 使用shared_ptr负责指针的销毁工作
 */
 
 #include <iostream>

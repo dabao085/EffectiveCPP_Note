@@ -1,5 +1,5 @@
 /*
-
+* 将newed对象单独放在一行语句中.
 */
 
 #include <iostream>

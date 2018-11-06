@@ -1,3 +1,8 @@
+/*
+*1.提供成对的new&delete
+*2.不要对数组形式使用typedefs
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;

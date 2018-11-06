@@ -1,3 +1,9 @@
+/*
+*1.RAII思想，在资源管理类的构造函数中初始化资源，在资源管理类的析构函数中释放资源。
+*一如CLock中，构造函数lock，析构函数unlock
+*2.自定义删除器deleter
+*/
+
 #include <iostream>
 #include <memory>
 #include <boost/noncopyable.hpp>
